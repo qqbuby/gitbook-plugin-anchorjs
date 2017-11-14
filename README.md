@@ -4,7 +4,7 @@ Adds deep links to headlines.
 
 ```js
 {
-  "plugins": ["anchorjs"]
+  "plugins": ["header-anchorjs"]
 }
 ```
 
