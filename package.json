@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-header-anchorjss",
+  "name": "gitbook-plugin-header-anchorjs",
   "description": "Add anchor.js to your Gitbook",
   "main": "index.js",
   "version": "1.1.1",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qqbuby/gitbook-plugin-header-anchorjss.git"
+    "url": "git+https://github.com/qqbuby/gitbook-plugin-header-anchorjs.git"
   },
   "keywords": [
     "gitbook",
@@ -19,7 +19,7 @@
   "author": "ROY XU <qqbuby@gmail.com>; Adam Tuttle <adamtuttlecodes@gmail.com>; Simran Brucherseifer <simran@arangodb.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qqbuby/gitbook-plugin-header-anchorjss/issues"
+    "url": "https://github.com/qqbuby/gitbook-plugin-header-anchorjs/issues"
   },
-  "homepage": "https://github.com/qqbuby/gitbook-plugin-header-anchorjss#readme"
+  "homepage": "https://github.com/qqbuby/gitbook-plugin-header-anchorjs#readme"
 }
